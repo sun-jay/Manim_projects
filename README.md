@@ -26,9 +26,8 @@ import math
 
 class SOMECLASSNAME(Scene):
 
-  def construct(self):
-  
-    #some animation code
+   def construct(self):
+      some animation code
     
     
 
