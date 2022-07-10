@@ -19,10 +19,15 @@ make ur own code by running a cell that containes code that follows this outline
 
 
 %%manim -v WARNING SOMECLASSNAME
+
 import numpy as np
+
 import math
+
 class SOMECLASSNAME(Scene):
+
   def construct(self):
+  
     #some animation code
     
     
