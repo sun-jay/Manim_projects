@@ -1,6 +1,4 @@
 # this code works specifically in the manimcommunity/manim docker container jupyter notebook.
-from manim import*
-
 %%manim -v WARNING CreateGraph
 
 import numpy as np
