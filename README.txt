@@ -1,6 +1,5 @@
 # Manim_projects
-Animations using manim
-
+Mathematical Animations using 3Blue1Brown's python library Manim
 
 manim is a collection of libraries and its a lot easier to get them all together using the docker container.
 
